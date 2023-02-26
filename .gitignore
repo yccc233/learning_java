@@ -4,3 +4,11 @@
 
 
 **/.DS_Store
+
+**/target
+
+**/test
+
+# 不用的项目
+/nacos
+/Nacos-old
